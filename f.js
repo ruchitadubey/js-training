@@ -6,4 +6,4 @@ function f(y)// y is formal argument
   console.log("hello" +y);
 }
 //calling 
-f(x);
+f(x); //actual argument
